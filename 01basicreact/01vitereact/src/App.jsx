@@ -1,8 +1,13 @@
 
+import Jil from "./jil"
+
 function App() {
 
   return (
-    <h1>react with vite</h1>
+    <>
+    <Jil/>
+    <h1>hello</h1>
+    </>
   )
 }
 
