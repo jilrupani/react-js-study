@@ -11,11 +11,14 @@ Currently, two official plugins are available:
 
 
 
-Tailwind :
+Tailwind website:
 ```
 https://tailwindcss.com/docs/installation/using-vite
 ```
-
+first command :
+```
+npm install tailwindcss @tailwindcss/vite
+```
 
 vite.config.js
 ```
@@ -32,3 +35,9 @@ export default defineConfig({
 })
 
 ```
+
+index.css :
+```
+@import "tailwindcss";
+```
+
