@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1 className='bg-green-600'>Krupa Likes Rupani Jil Dineshbhai</h1>
+      <h1 className='bg-green-600'>Rupani Jil Dineshbhai</h1>
       <h3 className="bg-gray-600 from-gray-600">UP</h3>
     </>
   )
